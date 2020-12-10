@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Adopt Me</title>
+</head>
+
+<body>
+  <div id="root">not rendered</div>
+  <script charset="utf-8" src="https://unpkg.com/react@16.8.4/umd/react.development.js"></script>
+  <script charset="utf-7" src="https://unpkg.com/react-dom@16.8.4/umd/react-dom.development.js"></script>
+  <!-- Code goes here -->
+</body>
+
+</html>
